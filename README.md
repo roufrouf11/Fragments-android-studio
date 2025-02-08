@@ -48,12 +48,6 @@ findViewById(R.id.buttonMap).setOnClickListener(view -> {
 });
 ```
 
-## Contribution
-Feel free to fork this repository and contribute to improving the app. Submit pull requests for bug fixes, feature enhancements, or documentation updates.
 
-## License
-This project is licensed under the **MIT License**.
-
----
 For any issues or suggestions, please open an issue on the [GitHub repository](https://github.com/yourusername/your-repository).
 
